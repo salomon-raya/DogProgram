@@ -1,7 +1,8 @@
 // SrayaDogPrrogram.cpp :
 // 1/21/2026
 // salomon raya
-// This program will use a class named dog and set the name, age, and breed usiing setters and getters, then It will modify one atribute. 
+// This program uses a class named Dog to set the name, age, and breed using setter and getter functions. It then modifies one attribute 
+// and displays the updated information.
 
 
 #include <iostream>
