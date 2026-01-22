@@ -8,10 +8,7 @@
 #include <string>
 using namespace std;
 
-
 class Dog {
-
-
 public:
     // Setter functions
     void setName(string dogName)
@@ -54,7 +51,6 @@ private:
     string name;
     int age;
     string breed;
-
 };
 
 int main() 
@@ -71,11 +67,7 @@ int main()
 
     // Modify attribute
     myDog.setAge(7);
-
     cout << endl;
-  
     cout << "Dog's New Age: " << myDog.getAge() << endl;
     myDog.bark();
-
-
 }
